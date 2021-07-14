@@ -4,6 +4,7 @@ export const Container = styled.div`
     width: 100vw;
     height: 100vh;
     display: flex;
+    align-items:center;
     justify-content: center;
 `;
 
@@ -21,9 +22,15 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
-    height: 1.5rem;
-    border: 1px solid #000;
+    border: 1px solid #ddd;
+    height: 2.6rem;
     background:#000;
     color:#fff;
     border-radius: 0 .25rem .25rem 0;
+
+    &:focus,
+    &:active {
+        outline: none;
+        box-shadow: none;
+    }
 `
