@@ -7,3 +7,5 @@
 # componente react-router-dom ira realizar todo sistema de roteamento 
 # entender sobre componentes, estados e propriedades.
 # usar sempre o camelCase
+# usar para roteamento o react-router-dom
+# para estilos usar o styled-components
