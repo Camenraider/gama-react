@@ -1,3 +1,4 @@
+# usar typescript npx create-react-app my-app --template typescript
 # usar yarn: npm install -global yarn e para desinstalar yarn global remove create-react-app
 # prepara com comandos do time do facebook para ficar na forma mais fluida: npx create-react-app nomeApp
 # HTML dentro do javascript é chamado de JSX
